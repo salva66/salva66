@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salva66
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently persuing Computer Engineering
+- 🌱 I’m a Computer Engineering graduate
 
 
 <!---
