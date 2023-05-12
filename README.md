@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salva66
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
+- 👀 I’m interested in Data Science, Software Engineering and System Administration
 - 🌱 I’m a Computer Engineering graduate
 
 
